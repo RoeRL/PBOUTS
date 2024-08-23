@@ -54,7 +54,7 @@
         <li class="active"><a href="/dashboard">Dashboard</a></li>
         <li><a href="/users">Users</a></li>
         <li><a href="/university">University</a></li>
-        <li><a href="#section3">Geo</a></li>
+        <li><a href="/pdf">Export PDF</a></li>
       </ul><br>
     </div>
     <br>

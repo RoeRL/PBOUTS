@@ -13,5 +13,7 @@
             "email": "roeru1412@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "dompdf/dompdf": "^3.0"
+    }
 }

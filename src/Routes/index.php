@@ -2,6 +2,7 @@
 
 use App\Controllers\DashboardController;
 use App\Controllers\HomeController;
+use App\Controllers\PdfController;
 use App\Controllers\UniversityController;
 use App\Controllers\UsersController;
 use App\Router;
@@ -12,6 +13,8 @@ $router->get('/', HomeController::class, 'Login');
 $router->get('/dashboard', DashboardController::class, 'Dashboard');
 $router->get('/users', UsersController::class, 'Users');
 $router->get('/university', UniversityController::class, 'Uni');
+$router->get('/pdf', PdfController::class, 'PDF');
+
 
 
 
