@@ -1,0 +1,17 @@
+{
+    "name": "roerl/pbouts",
+    "description": "UTS Based website",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vrkadia",
+            "email": "roeru1412@gmail.com"
+        }
+    ],
+    "require": {}
+}
